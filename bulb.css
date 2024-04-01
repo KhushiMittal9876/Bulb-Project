@@ -1,0 +1,35 @@
+.container_1{
+    border: solid;
+    margin-top: 80px;
+    margin-left: 650px;
+    width:25px;
+    height:25px;
+    background-color: aqua;
+
+}
+body{
+    background-color: black;
+}
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #99bfb1;
+    border: none;
+    margin: 500px 100px 20px 1050px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #263127}
+  
+  .button:active {
+    background-color: #1a1a1a;
+    box-shadow: 0 5px #6c6c6c;
+    transform: translateY(4px);
+  }
